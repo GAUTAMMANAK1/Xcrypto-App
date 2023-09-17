@@ -35,12 +35,12 @@ const Footer = () => {
 
         <VStack>
           <img
-            src="https://gautammanak.me/assets/mypic.png"
+            src="https://c8.alamy.com/comp/PP1R1P/glowing-blue-bitcoin-cryptocurrency-digital-decentralized-currency-symbol-conceptual-illustration-of-a-bitcoin-logo-connected-to-a-blockchain-netw-PP1R1P.jpg"
             alt="react logo"
             style={{ width: "150px" }}
             
           />
-          <Text> gautammanak</Text>
+          <Text>BitcoinApp</Text>
         </VStack>
       </Stack>
     </Box>
